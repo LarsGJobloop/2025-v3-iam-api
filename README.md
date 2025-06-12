@@ -20,3 +20,7 @@
 
 - [Overview of OAuth Flows](/docs/chatgpt-summary.md)
 - [OAuth](https://oauth.net/2/)
+
+## Sketch
+
+![Sketch](/docs/sketches.excalidraw.png)

@@ -3,3 +3,6 @@ obj
 
 # Ignore artefacts
 bin
+
+# Ignore secret/sensitive information
+appsettings.Development.json

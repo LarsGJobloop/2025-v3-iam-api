@@ -1,0 +1,5 @@
+# Ignore intermediate files
+obj
+
+# Ignore artefacts
+bin
